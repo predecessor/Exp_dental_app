@@ -63,7 +63,7 @@ ui <- fluidPage(
                                                                                "If you were sitting in the waiting room (waiting for treatment), how would you feel?",
                                                                                "If you were about to have a tooth drilled, how would you feel?",
                                                                                "If you were about to have your teeth scaled and polished, how would you feel?"),
-                                                       choices=levelanx_choices, selected="Fairly anxious"),
+                                                       choices=levelanx_choices, selected="Fairly Anxious"),
                                   
                                   actionButton("submit", "Submit", class = "btn-primary")
                                   ),

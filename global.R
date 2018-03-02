@@ -31,7 +31,7 @@ likert_questions <- paste("Question", 1:19)
 
 likert_choices <- c("Strongly Disagree", "Disagree", "Neutral", "Agree", "Strongly Agree")
 
-levelanx_choices<-c("Not anxious","Slightly Anxious","Fairly Anxious","Very Anxious", "Extremely Anxious")
+levelanx_choices<-c("Not Anxious","Slightly Anxious","Fairly Anxious","Very Anxious", "Extremely Anxious")
 
 fieldsMandatory <- c("var1", "id", "radio")
 
